@@ -1,0 +1,21 @@
+Cara Menjalankan 4 Feature :
+
+1. Feature AddCart
+- masuk kehalaman src/test/java/FeatureAddCart/runner
+- jalankan RunCart.java
+
+2. Feature Login
+- masuk kehalaman src/test/java/FeatureLogin/runner
+- jalankan RunLogin.java
+
+3. Feature Logout
+- masuk kehalaman src/test/java/FeatureLogout/runner
+- jalankan RunLogout.java
+
+4. Feature RemoveCart
+- masuk kehalaman src/test/java/FeatureRemoveCart/runner
+- jalankan RunCart.java
+
+
+//Note
+Berjalan di Chrome Versi 114 dan 114 kebawah
